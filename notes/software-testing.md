@@ -1,37 +1,30 @@
-# Software Testing
+#  What is Software Testing?
 
 ## Definition
 
-(Explain in your own words.)
+Software testing is a method where you test the system if it meets the requirement and expected output. 
 
 ---
 
 ## Key Points
 
-- Point 1
-- Point 2
-- Point 3
+- Involves manual and automation testing
+- Has white box and black box testing
+- Identifies underlying bugs or error gaps
 
 ---
 
 ## Real Example
 
-Relate it to your Expense Diary QA project or another application.
+Like how I did a black box testing in Expense Tracker to see if the system meets the requirements. An example would be the user is able to paste NaN as expense when in reality all of the user expense has definite value.
 
 ---
 
 ## Reflection
 
-What did I learn?
+I learned that Sotware Testing is necessary so that bugs are found early in the development phase and won't affect the performance of the system during production.
 
-What surprised me?
 
-What would I ask in an interview?
+What surprised me is most small-medium team for software development doesnt have their own QA team and the developers are the ones who runs some basic diagnostic tests.  
 
----
-
-## Interview Question
-
-Q:
-
-A:
+I I were to ask a question during an interview, i'd ask about how does their QA team helps their development team in the company.
