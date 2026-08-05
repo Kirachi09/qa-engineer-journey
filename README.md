@@ -43,43 +43,47 @@ automation/
 
 ## Current Progress
 
-### QA Fundamentals
+### Testing Fundamentals
+- [ ] What is Software Testing?
+- [ ] Software Testing as a Career Path
+- [ ] 7 Software Testing Principles
+- [ ] V-Model in Software Testing
+- [ ] STLC – Software Testing Life Cycle
+- [ ] Software Testing with Zoho Bugtracker (Optional)
 
-- [ ] What is Software Testing
-- [ ] Software Testing as a Career
-- [ ] 7 Testing Principles
-- [ ] V-Model
-- [ ] STLC
-- [ ] SDLC
+### Types of Testing
+- [ ] Manual Testing Tutorial for Beginners
+- [ ] Automation Testing Tutorial
+- [ ] Automation Testing vs Manual Testing
+- [ ] Unit Testing
+- [ ] Types of Unit Testing
+- [ ] Integration Testing
+- [ ] System Testing
+- [ ] Smoke Testing vs Sanity Testing
+- [ ] Regression Testing
+- [ ] Non-Functional Testing
 
-### Manual Testing
+### Test Case Development
+- [ ] Test Documentation
+- [ ] Test Scenario
+- [ ] How to Write Test Cases
+- [ ] Test Analysis
+- [ ] Requirements Traceability Matrix (RTM)
+- [ ] Test Data Generation
+- [ ] Test Case Template
 
-- [ ] Test Cases
-- [ ] Test Scenarios
-- [ ] Bug Reports
-- [ ] Severity vs Priority
-- [ ] Defect Life Cycle
+### Testing Techniques
+- [ ] Software Testing Techniques
+- [ ] Boundary Value Analysis
+- [ ] Equivalence Partitioning
+- [ ] Decision Table Testing
+- [ ] State Transition Testing
+- [ ] Use Case Testing
 
-### API Testing
-
-- [ ] Postman Basics
-- [ ] REST APIs
-- [ ] HTTP Methods
-- [ ] Status Codes
-
-### SQL
-
-- [ ] SELECT
-- [ ] WHERE
-- [ ] JOIN
-- [ ] GROUP BY
-
-### Automation
-
-- [ ] Git
-- [ ] Playwright
-- [ ] JavaScript Basics
-- [ ] Assertions
+### Test Management & Control
+- [ ] Test Estimation
+- [ ] Test Plan
+- [ ] Test Plan Template
 
 ---
 
