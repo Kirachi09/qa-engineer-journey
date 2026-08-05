@@ -83,6 +83,6 @@ automation/
 
 ---
 
-## 🚀 Long-term Goal
+## Long-term Goal
 
 Become a job-ready QA Engineer before graduation and build a portfolio that demonstrates practical testing skills through real-world projects and continuous learning.
