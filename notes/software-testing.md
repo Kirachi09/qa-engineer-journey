@@ -1,0 +1,37 @@
+# Software Testing
+
+## Definition
+
+(Explain in your own words.)
+
+---
+
+## Key Points
+
+- Point 1
+- Point 2
+- Point 3
+
+---
+
+## Real Example
+
+Relate it to your Expense Diary QA project or another application.
+
+---
+
+## Reflection
+
+What did I learn?
+
+What surprised me?
+
+What would I ask in an interview?
+
+---
+
+## Interview Question
+
+Q:
+
+A:

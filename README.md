@@ -43,9 +43,46 @@ automation/
 
 ## Current Progress
 
-- [ ] Software Testing
-- [ ] Software Testing Career
-- [ ] Testing Principles
+### QA Fundamentals
+
+- [ ] What is Software Testing
+- [ ] Software Testing as a Career
+- [ ] 7 Testing Principles
+- [ ] V-Model
 - [ ] STLC
 - [ ] SDLC
-- [ ] V-Model
+
+### Manual Testing
+
+- [ ] Test Cases
+- [ ] Test Scenarios
+- [ ] Bug Reports
+- [ ] Severity vs Priority
+- [ ] Defect Life Cycle
+
+### API Testing
+
+- [ ] Postman Basics
+- [ ] REST APIs
+- [ ] HTTP Methods
+- [ ] Status Codes
+
+### SQL
+
+- [ ] SELECT
+- [ ] WHERE
+- [ ] JOIN
+- [ ] GROUP BY
+
+### Automation
+
+- [ ] Git
+- [ ] Playwright
+- [ ] JavaScript Basics
+- [ ] Assertions
+
+---
+
+## Long-term Goal
+
+Become a job-ready QA Engineer before graduation and build a portfolio that demonstrates practical testing skills through real-world projects and continuous learning.
