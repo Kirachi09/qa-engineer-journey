@@ -1,8 +1,14 @@
 # QA Engineer Journey
 
-Hi! I'm a BSIT student aspiring to become a Software QA Engineer.
+Welcome to my QA Engineer learning journey.
 
-This repository documents my learning journey, practical exercises, and QA projects as I prepare for my internship (OJT) and first QA role.
+This repository documents my progress in learning Software Quality Assurance, including study notes, practical exercises, and real-world QA projects as I prepare for my internship (OJT) and my first QA role.
+
+## About Me
+
+- BSIT Student
+- Aspiring Software QA Engineer
+- Currently learning Manual Testing
 
 ## Goals
 
