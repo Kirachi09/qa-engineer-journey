@@ -2,29 +2,40 @@
 
 ## Definition
 
-(Explain in your own words.)
+(Your own explanation.)
 
 ---
 
 ## Key Points
 
-- Point 1
-- Point 2
-- Point 3
+- point 1
+- point 2
+- point 3
 
 ---
 
 ## Real Example
 
-Relate it to your Expense Diary QA project or another application.
+(Connect it to one of your projects.)
 
 ---
 
 ## Reflection
 
-What did I learn?
+### What I Learned
 
-What surprised me?
+(insert here)
 
-What would I ask in an interview?
+### What Surprised Me
 
+(insert here)
+
+### My Question
+
+(insert here)
+
+---
+
+## References
+
+- Guru99 – Software Testing Tutorial By : Thomas HamiltonThomas Hamilton
