@@ -9,8 +9,9 @@ This project contains my QA testing work for the Expense Diary application.
 - Manual Testing
 - Black-box Testing
 - Functional Testing
+- UI/Visual Testing
 - Bug Reporting
 
 ## QA Report
 
-[View QA Report](QA-Report.pdf)
+You can download it [here](QA-Report.pdf)
