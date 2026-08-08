@@ -2,21 +2,21 @@
 
 ## Definition
 
-Software Testing Life Cycle is a cycle of tasks sequence which validates software quality. In each stage of the cycle, there are validation and verification to filter out bugs
+The Software Testing Life Cycle (STLC) is a sequence of activities performed during software testing to validate software quality. Each phase has specific activities and objectives that help identify defects throughout the testing process.
 
 ---
 
 ## Key Points
 
-- requires analysis, test planning, test case development, test environment setup, test execution, and test cycle closure
-- The phases of the cycle will ensure clarity in the field of test coverage and improve communication across dev, QA, and stakeholders.
-- STLC is stricly focused on testing.
-- STLD is a subset of SDLC
+- Requires requirement analysis, test planning, test case development, test environment setup, test execution, and test cycle closure.
+- STLC helps to ensure test coverage and improve communication between QA, developers, and stakeholders.
+- STLC is specifically focused on testing activities.
+- STLC is a subset of SDLC.
 ---
 
 ## Real Example
 
-i have dealt with sdlc in my college projects and currently dealing with it in capstone thesis documentation but theres no stlc in it. 
+I have dealt with SDLC in my college projects and currently use it in my capstone thesis documentation. However, I have not formally applied STLC to a project yet.
 
 ---
 
@@ -24,15 +24,15 @@ i have dealt with sdlc in my college projects and currently dealing with it in c
 
 ### What I Learned
 
-I learned that STLC is actually within the SDLC just focused on testing
+I learned that STLC is actually within the SDLC just focused on testing.
 
 ### What Surprised Me
 
-It surprised me that its super close to v model because each phase will undergo verificationa and validation process
+It surprised me that it is similar to the V-Model because each phase has corresponding verification and validation activities.
 
 ### My Question
 
-id like to know whats the main difference between v model and stlc
+What's the main difference between V-Model and STLC?
 
 ---
 
