@@ -1,22 +1,22 @@
-# STLC – Software Testing Life
+# STLC – Software Testing Life Cycle
 
 ## Definition
 
-(Your own explanation.)
+Software Testing Life Cycle is a cycle of tasks sequence which validates software quality. In each stage of the cycle, there are validation and verification to filter out bugs
 
 ---
 
 ## Key Points
 
-- point 1
-- point 2
-- point 3
-
+- requires analysis, test planning, test case development, test environment setup, test execution, and test cycle closure
+- The phases of the cycle will ensure clarity in the field of test coverage and improve communication across dev, QA, and stakeholders.
+- STLC is stricly focused on testing.
+- STLD is a subset of SDLC
 ---
 
 ## Real Example
 
-(Connect it to one of your projects.)
+i have dealt with sdlc in my college projects and currently dealing with it in capstone thesis documentation but theres no stlc in it. 
 
 ---
 
@@ -24,15 +24,15 @@
 
 ### What I Learned
 
-(insert here)
+I learned that STLC is actually within the SDLC just focused on testing
 
 ### What Surprised Me
 
-(insert here)
+It surprised me that its super close to v model because each phase will undergo verificationa and validation process
 
 ### My Question
 
-(insert here)
+id like to know whats the main difference between v model and stlc
 
 ---
 
