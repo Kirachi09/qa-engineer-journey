@@ -24,7 +24,7 @@ The whole Expense Diary system was tested using manual testing. View the documen
 
 ### What I Learned
 
-I learned that manual testing is the foundation of quality assurance
+I learned that manual testing is the foundation of quality assurance.
 
 ### What Surprised Me
 
@@ -33,6 +33,7 @@ I wasn't aware of how manual testing and automation testing can work together. I
 ### My Question
 
 Is a misspelled word in a system considered a bug? How do testers determine when a system is ready for testing?
+
 ---
 
 ## References
