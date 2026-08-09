@@ -2,21 +2,21 @@
 
 ## Definition
 
-Basically, manual testing is an activity wherein a tester checks the system by using the system to find error may it be functional or content and visual bugs. By the name itself, this is done manually by the tester to achieve a error-free and user-friendly system
+Manual testing is an activity where a tester manually checks a software system to identify defects, including functional, content, and visual issues. It is performed without using automated test scripts and helps evaluate whether the system behaves as expected and provides a good user experience.
 
 ---
 
 ## Key Points
 
-- commonly used for naviagtion or exploratory and visual bugs
-- non-technical skill since the tester doesnt need to know how to code
-- every system should alwys undergo manual testing first, before proceeding to automation testing
+- Commonly used for exploratory, functional, content, and visual testing
+- Does not require programming knowledge, although technical skills can be beneficial
+- Manual testing can be performed before, alongside, or after automation testing depending on the project but generally always before automation testing.
 
 ---
 
 ## Real Example
 
-The whole expense tracker system was tested using manual testing. view documentation [here](link this to the qa file for expense tracker)
+The whole Expense Diary system was tested using manual testing. View the documentation [here](../../projects/expense-diary/).
 
 ---
 
@@ -28,12 +28,11 @@ I learned that manual testing is the foundation of quality assurance
 
 ### What Surprised Me
 
-I wasnt aware that systems should undergo manual testing first before going automation testing because i thought automation was just an sequential tasks automated to complete the test cases of manual testing which made me dumbfoundly surprised
+I wasn't aware of how manual testing and automation testing can work together. I initially thought automation was simply a way to automate the manual test cases, so learning about their different purposes surprised me.
 
 ### My Question
 
-Id like to ask if a mispelled word in the system a bug? when to know that the system is ready for testing
-
+Is a misspelled word in a system considered a bug? How do testers determine when a system is ready for testing?
 ---
 
 ## References
