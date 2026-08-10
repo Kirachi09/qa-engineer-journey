@@ -1,40 +1,39 @@
-# Topic
+# Automation Testing Tutorial
 
 ## Definition
 
-(Your own explanation.)
+Automation Testing is a testing technique that uses tools and scripts to execute test cases automatically to lessen the human intervention and for faster testing. 
 
 ---
 
 ## Key Points
 
-- point 1
-- point 2
-- point 3
+- has 10 tppes of automation testing
+- automation testing solves what the manual testing limits 
+- 100% automation is not possible
 
 ---
 
 ## Real Example
 
-(Connect it to one of your projects.)
-
+i have no experience yet
 ---
 
 ## Reflection
 
 ### What I Learned
 
-(insert here)
+i learned that there are 10 types of automation testing
 
 ### What Surprised Me
 
-(insert here)
+im surprise to see that automation testing is actually built for various really specific tasks
 
 ### My Question
 
 (insert here)
 
----
+when to know yhat the system is ready for automation testing
 
 ## References
 
