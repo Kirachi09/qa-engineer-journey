@@ -16,9 +16,8 @@ Automation testing is a testing technique that uses tools and scripts to execute
 
 ## Real Example
 
-## Real Example
-
 I have no experience with automation testing yet.
+
 ---
 
 ## Reflection
