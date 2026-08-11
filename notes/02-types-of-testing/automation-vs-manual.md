@@ -2,15 +2,16 @@
 
 ## Definition
 
-(Your own explanation.)
+Manual testing is done manually by a human while automation testing is doned by computer running scripts and codes. 
 
 ---
 
 ## Key Points
 
-- point 1
-- point 2
-- point 3
+- Manual is might not be perfect due to human error while automation is reliable
+- Automation is faster than manual testing
+- Manual testing is non-technical and automation testing needs technical skills for creating scripts and codes.
+- Manual can test randomly while automation doesnt allow random testing
 
 ---
 
@@ -24,15 +25,15 @@
 
 ### What I Learned
 
-(insert here)
+I learned that these 2 are both needed to ensure the system to have a better runtime, and error-free
 
 ### What Surprised Me
 
-(insert here)
+Im surprised to know that there are a lot of parameter than these 2 methods can solve
 
 ### My Question
 
-(insert here)
+How many % of testing is done thru manual testing compared to automation testing?
 
 ---
 
