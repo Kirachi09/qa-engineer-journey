@@ -1,16 +1,16 @@
-# Topic
+# What is Unit Testing?
 
 ## Definition
 
-(Your own explanation.)
+It is a testing method wherein individual units or components of code like functions, methods and classes are tested in isolation to verify its process and result.
 
 ---
 
 ## Key Points
 
-- point 1
-- point 2
-- point 3
+- The main objective is to test small units to see if it is behaving properly without external systems.
+- The key principle is isolation.
+- By having small testing methods such as unit testing, it can prevent regression.
 
 ---
 
@@ -24,15 +24,15 @@
 
 ### What I Learned
 
-(insert here)
+I learned that even the smallest test can give a huge impact for testing
 
 ### What Surprised Me
 
-(insert here)
+What surprised me is that there is actaully isolation is testing
 
 ### My Question
 
-(insert here)
+is there any requirements needed to be reach before implementing unit testing?
 
 ---
 
