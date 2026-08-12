@@ -2,21 +2,22 @@
 
 ## Definition
 
-It is a testing method wherein individual units or components of code like functions, methods and classes are tested in isolation to verify its process and result.
+It is a testing method wherein individual units or components of code like functions, methods and classes are tested in isolation to verify that they behave as expected and produce the correct results.
 
 ---
 
 ## Key Points
 
-- The main objective is to test small units to see if it is behaving properly without external systems.
-- The key principle is isolation.
-- By having small testing methods such as unit testing, it can prevent regression.
+- Unit testing focuses on small units such as functions, methods, or classes.
+- The units are tested in isolation from external systems.
+- The main principle is isolation.
+- Unit tests can help detect regressions when code changes.
 
 ---
 
 ## Real Example
 
-(Connect it to one of your projects.)
+I have not implemented unit testing in a project yet.
 
 ---
 
@@ -24,15 +25,15 @@ It is a testing method wherein individual units or components of code like funct
 
 ### What I Learned
 
-I learned that even the smallest test can give a huge impact for testing
+I learned that even the smallest test can have a significant impact on software quality.
 
 ### What Surprised Me
 
-What surprised me is that there is actaully isolation is testing
+I was surprised that unit testing focuses on isolating individual parts of the code instead of testing the entire system.
 
 ### My Question
 
-is there any requirements needed to be reach before implementing unit testing?
+What requirements or conditions should be met before implementing unit testing?
 
 ---
 
