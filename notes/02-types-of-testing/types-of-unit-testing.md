@@ -2,21 +2,22 @@
 
 ## Definition
 
-Unit testing verifies even the smallest function in a system it has 2 types, manual and automation. 
+Unit testing verifies individual units or components of a software system, such as functions or methods.
 
 ---
 
 ## Key Points
 
-- Unit testing can be classified into 3: white box testing, black box testing, and gray box testing.
-- Manual Unit Testing is best used when a highly intuitive feature is being tested.
-- Automation Unit Testing is integral to practices like test-driven development
+- Unit testing can be classified into 3: white box, black box, and gray box testing.
+- Unit testing can be performed manually or through automation.
+- Manual unit testing can be useful when testing highly intuitive features.
+- Automated unit testing is commonly used in practices such as Test-Driven Development (TDD).
 
 ---
 
 ## Real Example
 
-(Connect it to one of your projects.)
+I have not performed unit testing on my projects yet.
 
 ---
 
@@ -24,15 +25,15 @@ Unit testing verifies even the smallest function in a system it has 2 types, man
 
 ### What I Learned
 
-I learned that Unit Testing actually has its own types and classifications.
+I learned that unit testing has its own types and classifications.
 
 ### What Surprised Me
 
-What surprised me is that white, black, and gray box testing is actaully under unit testing
+I was surprised to learn that white-box, black-box, and gray-box approaches can also be discussed in the context of unit testing.
 
 ### My Question
 
-based on the system, is it enough to only 1 type or 1 type of box testing? 
+Based on the system, is it enough to use only one type of testing or one type of box testing?
 
 ---
 
