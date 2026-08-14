@@ -2,21 +2,21 @@
 
 ## Definition
 
-Integration Testing is a testing type which tests the integrated system in the project 
+Integration testing verifies that multiple modules or components work correctly together after being combined.
 
 ---
 
 ## Key Points
 
-- Useful when verifying data flow, shared APIs, and interdependent modules across many different environments
-- There are 2 types of integration testing: Big Bang Approach and Incremental Approach.
-- Stubs and drivers are essential dummy programs which enables integration testing if not all modules are available simultaneously.
+- Used to verify data flow, APIs, and interactions between interconnected modules.
+- Two common approaches are Big Bang and Incremental integration testing.
+- Stubs and drivers are dummy programs used when some modules are unavailable during integration testing.
 
 ---
 
 ## Real Example
 
-(Connect it to one of your projects.)
+I have not performed integration testing on my projects yet.
 
 ---
 
@@ -24,11 +24,11 @@ Integration Testing is a testing type which tests the integrated system in the p
 
 ### What I Learned
 
-I learned that integration testing defines a clear checkpoint during testing ensuring a steady progress 
+I learned that integration testing helps verify whether different components of a system communicate and work correctly together.
 
 ### What Surprised Me
 
-intricate testing scenarios can be breakdown even if its hard
+I was surprised that complex integration testing scenarios can be broken down into smaller and more manageable tests.
 
 ### My Question
 
